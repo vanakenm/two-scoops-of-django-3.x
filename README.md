@@ -3,7 +3,7 @@ The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
 
 Tracking thoughts and feature requests for Two Scoops of Django 3.x in the issue tracker.
 
-Available currently in PDF formats at https://www.feldroy.com/products/two-scoops-of-django-3-x. 
+Available currently in PDF formats at https://www.feldroy.com/two-scoops-press#two-scoops-of-django. 
 
 ## Before You Submit an Issue
 
